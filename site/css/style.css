@@ -4,7 +4,7 @@ header {
     justify-content: center;
     height: 400px;
     background-color: rgb(124, 124, 124);
-    background: url(site/images/background.jpg) bottom no-repeat;
+    background: url(/site/images/background.jpg) bottom no-repeat;
     background-size: cover
 }
 body {
